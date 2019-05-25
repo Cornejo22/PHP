@@ -30,6 +30,7 @@
 
     echo "El resultado es : " . $resultado;
 ?>
+<h1>hashahs</h1>
 
 <br/><br/>
 <button><a href="Ejercicio04A.html">Volver</a></button>
