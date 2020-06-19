@@ -1,0 +1,3 @@
+Esto es un archivo de descarga
+para la prueba de descargar
+archivos de la pagina privada.php
